@@ -458,10 +458,8 @@ lib/libmaluicc.so
 lib/libnmf.so
 lib/libnmftimer.so
 lib/libUMP.so
-lib/libbluedroid.so
 lib/libmalgss.so
 lib/libmalcs.so
-lib/libbluetooth.so
 lib/libmalpipe.so
 lib/libste_adm.so
 lib/libste_ens_audio_samplerateconv.so
@@ -478,7 +476,6 @@ lib/libkeyctrl.so
 lib/libu300-parser.so
 lib/libste_ext_ens_image_common.so
 lib/libmpl.so
-lib/libbluetoothd.so
 lib/libmalnet.so
 lib/liblos.so
 lib/libcn.so
@@ -592,7 +589,6 @@ lib/libcameraextensionservice.so
 lib/libcameralight.so
 lib/libcald_server.so
 lib/libcamera_clientsemc.so
-lib/libcameraservice.so
 vendor/camera/flash.dat
 vendor/camera/KMO05BN0.dat
 vendor/camera/STW05BN0_BH6476.dat
