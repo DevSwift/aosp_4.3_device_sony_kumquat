@@ -1,4 +1,4 @@
-Android Open Source Project (AOSP) 4.3 for Sony Xperia Go
+Android Open Source Project (AOSP) 4.3 for Sony Xperia U
 
 Getting Started :
 
@@ -10,8 +10,8 @@ Getting Started :
     cd device
     mkdir sony
     cd sony
-    git clone https://github.com/munjeni/aosp_4.3_device_sony_lotus.git lotus
-    cd lotus
+    git clone https://github.com/DevSwift/aosp_4.3_device_sony_kumquat.git kumquat
+    cd kumquat
 
 Now connect your phone which have runing FXP CM10 :
 
@@ -24,7 +24,7 @@ Now connect your phone which have runing FXP CM10 :
 To build :
 
     . build/envsetup.sh
-    lunch full_lotus-userdebug
+    lunch full_kumquat-userdebug
     make otapackage
 
 ENJOY!
